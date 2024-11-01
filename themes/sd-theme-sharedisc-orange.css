@@ -1,0 +1,6 @@
+.woocommerce .sd_fee_item th, .woocommerce .sd_fee_item td { color: #FF6600 !important; }
+.woocommerce td.cart_grid{border: 2px solid #FF6600 !important;}
+.woocommerce .sd_fee_item th{ background-image: url("sd-theme-sharedisc-orange.png"); color: #FF6600 !important;}
+.sd_cart_callout{ background-color:#FF6600; color:#fff; }
+.sharedisctextlink{color:#fff !important; background-color: #FF6600; background-image: url("sd-theme-sharedisc-orange.png"); }
+.sharedisctextlink:hover{color:#fff !important;}
